@@ -7,7 +7,7 @@ Official B2B website and wholesale catalog for **GANPATI TRADERS (U.P)**, establ
 - **Registered Address**: 13/48, Barahsaini Street, Aligarh, Uttar Pradesh – 202001
 - **GSTIN / UIN**: `09ACAPV9782E1Z1` (State Code: 09)
 - **Email**: ganpatitraders.aligarh@gmail.com
-- **Phone / WhatsApp**: +91 97619 77999
+- **Phone / WhatsApp**: +91 98370 83772
 
 ---
 
