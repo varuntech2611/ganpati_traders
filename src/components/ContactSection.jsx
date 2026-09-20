@@ -58,7 +58,7 @@ export default function ContactSection() {
             Contact Our Aligarh Commercial Desk
           </h2>
           <p className="text-slate-600 text-sm sm:text-base mt-3">
-            Inquire about abattoir supplies, bulk dangri uniforms, cattle ear tags, gumboots, or authentic Meena brand knives.
+            Inquire about abattoir supplies, bulk dangri uniforms, cattle ear tags, gumboots, or authentic Meena brand knives (knifes).
           </p>
         </div>
 
@@ -227,7 +227,7 @@ export default function ContactSection() {
                       <option>Industrial Gumboots & PVC Work Shoes</option>
                       <option>Cold Storage & Winter Wear (Woolen Coats, Monkey Caps)</option>
                       <option>Cattle Ear Tags & Applicator Tools</option>
-                      <option>Meena Brand Butcher & Skinning Knives</option>
+                      <option>Meena Brand Butcher & Skinning Knives (Knifes)</option>
                       <option>Multiple / Mixed Wholesale Consignment</option>
                     </select>
                   </div>
@@ -240,7 +240,7 @@ export default function ContactSection() {
                   <textarea
                     rows={4}
                     required
-                    placeholder="Specify exact quantities (e.g. 100 pcs PVC aprons, 50 pairs gumboots, 500 cattle ear tags, 24 pcs Meena knives), destination city..."
+                    placeholder="Specify exact quantities (e.g. 100 pcs PVC aprons, 50 pairs gumboots, 500 cattle ear tags, 24 pcs Meena knives / knifes), destination city..."
                     value={formData.requirement}
                     onChange={(e) => setFormData({ ...formData, requirement: e.target.value })}
                     className="w-full px-3.5 py-2.5 text-sm rounded-xl border border-slate-200 bg-white focus:outline-none focus:ring-2 focus:ring-amber-500/50"

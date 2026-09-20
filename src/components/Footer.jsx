@@ -76,7 +76,7 @@ export default function Footer() {
             </div>
 
             <p className="text-xs text-slate-400 leading-relaxed max-w-sm">
-              Wholesale trading establishment supplying slaughterhouse & food plant hygiene gear, industrial dangri boiler suits, waterproof gumboots, cattle ear tags with applicators & cutters, and genuine Meena brand knives to enterprises across India.
+              Wholesale trading establishment supplying slaughterhouse & food plant hygiene gear, industrial dangri boiler suits, waterproof gumboots, cattle ear tags with applicators & cutters, and genuine Meena brand knives (knifes) to enterprises across India.
             </p>
 
             <div className="p-3.5 rounded-xl bg-slate-900 border border-slate-800 text-xs space-y-1">
@@ -119,7 +119,7 @@ export default function Footer() {
               </li>
               <li>
                 <a href="#catalog" className="hover:text-amber-400 transition-colors">
-                  Meena Brand Butcher Knives
+                  Meena Brand Butcher Knives (Knifes)
                 </a>
               </li>
               <li>

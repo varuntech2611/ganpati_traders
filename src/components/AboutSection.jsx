@@ -71,8 +71,8 @@ export default function AboutSection() {
                   <CheckCircle className="w-3.5 h-3.5" />
                 </div>
                 <div>
-                  <h4 className="text-sm font-bold text-slate-900">Livestock Tagging & Original Meena Knives</h4>
-                  <p className="text-xs text-slate-500">Laser-numbered TPU cattle ear tags with applicator pliers & safety cutters, plus original stamped Meena brand professional butcher knives.</p>
+                  <h4 className="text-sm font-bold text-slate-900">Livestock Tagging & Original Meena Knives (Knifes)</h4>
+                  <p className="text-xs text-slate-500">Laser-numbered TPU cattle ear tags with applicator pliers & safety cutters, plus original stamped Meena brand professional butcher knives (knifes).</p>
                 </div>
               </div>
 

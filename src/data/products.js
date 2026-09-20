@@ -1,7 +1,7 @@
 export const BUSINESS_INFO = {
   name: "Ganpati Traders",
   legalName: "GANPATI TRADERS (U.P)",
-  tagline: "Wholesale Supplier of Slaughterhouse Hygiene Gear, Uniforms, Cattle Ear Tags, Gumboots & Meena Knives",
+  tagline: "Wholesale Supplier of Slaughterhouse Hygiene Gear, Uniforms, Cattle Ear Tags, Gumboots & Meena Knives (Knifes)",
   locationName: "Aligarh, Uttar Pradesh",
   address: "13/48, Barahsaini Street, Aligarh, Uttar Pradesh",
   pincode: "202001",
@@ -13,7 +13,7 @@ export const BUSINESS_INFO = {
   email: "ganpatitraders.aligarh@gmail.com",
   workingHours: "Monday – Saturday: 9:30 AM – 8:00 PM",
   establishedYear: "2007",
-  aboutShort: "Ganpati Traders (Aligarh) is an authorized wholesale trading house specializing in slaughterhouse & food processing hygiene gear (PVC/Ragjean aprons, disposables, gumboots), industrial uniform wear (dangri coveralls, T-shirt pajama, coats, caps), cold storage winterwear, cattle ear tags with applicators & cutters, and genuine Meena brand knives.",
+  aboutShort: "Ganpati Traders (Aligarh) is an authorized wholesale trading house specializing in slaughterhouse & food processing hygiene gear (PVC/Ragjean aprons, disposables, gumboots), industrial uniform wear (dangri coveralls, T-shirt pajama, coats, caps), cold storage winterwear, cattle ear tags with applicators & cutters, and genuine Meena brand knives (knifes).",
   highlights: [
     { title: "Registered GST Compliant", desc: "GSTIN: 09ACAPV9782E1Z1 for official B2B tax invoices & ITC claims" },
     { title: "Wholesale Master Lots", desc: "Factory direct bulk pricing for abattoirs, food processors & distributors" },
@@ -29,7 +29,7 @@ export const CATEGORIES = [
   { id: "footwear", name: "Gumboots & PVC Shoes" },
   { id: "winterwear", name: "Cold Storage & Winter Wear" },
   { id: "cattle", name: "Cattle Ear Tags & Tools" },
-  { id: "knives", name: "Meena Brand Knives" },
+  { id: "knives", name: "Meena Brand Knives (Knifes)" },
 ];
 
 export const PRODUCTS = [
@@ -412,19 +412,19 @@ export const PRODUCTS = [
   // --- Meena Brand Knives ---
   {
     id: "knife-meena-butcher",
-    name: "Genuine Meena Brand Commercial Butcher & Skinning Knives",
+    name: "Genuine Meena Brand Commercial Butcher & Skinning Knives (Knifes)",
     category: "knives",
     badge: "Meena Original",
-    description: "Authentic famous 'Meena' brand professional meat cutting and skinning knives. Forged from high-carbon surgical steel with razor-sharp ground edge and durable riveted handle.",
+    description: "Authentic famous 'Meena' brand professional meat cutting, boning, and skinning knives (knifes). Forged from high-carbon surgical steel with razor-sharp ground edge and durable riveted handle.",
     specs: [
       { label: "Brand", value: "Meena Brand (Original Stamped Hallmark)" },
       { label: "Blade Steel", value: "High-Carbon Forged Stain-Resistant Alloy" },
-      { label: "Blade Profiles", value: "Skinning Curved, Boning Stiff, Slicing Straight, Cleaver" },
+      { label: "Blade Profiles", value: "Skinning Curved, Boning Stiff, Slicing Straight Knifes, Cleaver" },
       { label: "Blade Lengths", value: "6\", 7\", 8\", 9\", 10\", 12\" Available" },
       { label: "Handle", value: "Hygienic Textured Polypropylene / Treated Hardwood" },
       { label: "Edge", value: "Hand-Honed Razor Sharp Edge for Effortless Cuts" }
     ],
-    packaging: "Individual sheath/sleeve; Box of 12 Knives; Carton of 72 Knives",
+    packaging: "Individual sheath/sleeve; Box of 12 Knives (Knifes); Carton of 72 Knives",
     moq: "24 Pieces (2 Dozen)",
     rating: 5.0,
     reviewsCount: 184,
