@@ -36,7 +36,7 @@ Official B2B website and wholesale catalog for **GANPATI TRADERS (U.P)**, establ
    - Universal Cattle Ear Tag Applicator Pliers
    - Ear Tag Removal Safety Cutters
 6. **Commercial Butchery Cutlery**:
-   - Genuine **Meena Brand** Butcher & Skinning Knives
+   - Genuine **Meena Brand** Butcher & Skinning Knifes
 
 ---
 

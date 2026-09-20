@@ -37,7 +37,7 @@ export default function AboutSection() {
             </h2>
 
             <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
-              Operating from the central commercial hub of <strong className="text-slate-900">Barahsaini Street, Aligarh</strong>, <strong>Ganpati Traders</strong> is a trusted wholesale trading enterprise. We specialize in supplying comprehensive hygiene workwear, personal protective equipment, livestock management tools, and industrial butcher knives to modern abattoirs, meat processing facilities, cold storages, cattle farms, and commercial kitchens across India.
+              Operating from the central commercial hub of <strong className="text-slate-900">Barahsaini Street, Aligarh</strong>, <strong>Ganpati Traders</strong> is a trusted wholesale trading enterprise. We specialize in supplying comprehensive hygiene workwear, personal protective equipment, livestock management tools, and industrial butcher knifes to modern abattoirs, meat processing facilities, cold storages, cattle farms, and commercial kitchens across India.
             </p>
 
             <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
@@ -71,8 +71,8 @@ export default function AboutSection() {
                   <CheckCircle className="w-3.5 h-3.5" />
                 </div>
                 <div>
-                  <h4 className="text-sm font-bold text-slate-900">Livestock Tagging & Original Meena Knives (Knifes)</h4>
-                  <p className="text-xs text-slate-500">Laser-numbered TPU cattle ear tags with applicator pliers & safety cutters, plus original stamped Meena brand professional butcher knives (knifes).</p>
+                  <h4 className="text-sm font-bold text-slate-900">Livestock Tagging & Original Meena Knifes</h4>
+                  <p className="text-xs text-slate-500">Laser-numbered TPU cattle ear tags with applicator pliers & safety cutters, plus original stamped Meena brand professional butcher knifes.</p>
                 </div>
               </div>
 

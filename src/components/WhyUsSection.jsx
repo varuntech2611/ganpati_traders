@@ -30,7 +30,7 @@ export default function WhyUsSection() {
     {
       icon: <PackageCheck className="w-6 h-6 text-purple-500" />,
       title: "Strict Hygiene & Material Quality",
-      description: "Heavy waterproof PVC aprons resistant to animal fats and blood, durable cotton drill dangri suits, and original stamped Meena brand butcher knives."
+      description: "Heavy waterproof PVC aprons resistant to animal fats and blood, durable cotton drill dangri suits, and original stamped Meena brand butcher knifes."
     },
     {
       icon: <Layers className="w-6 h-6 text-rose-500" />,
@@ -85,7 +85,7 @@ export default function WhyUsSection() {
         <div className="mt-14 bg-gradient-to-r from-slate-950 via-slate-900 to-slate-950 text-white rounded-3xl p-8 sm:p-10 border border-slate-800 flex flex-col md:flex-row items-center justify-between gap-6 shadow-2xl">
           <div className="space-y-2 text-center md:text-left">
             <h3 className="text-xl sm:text-2xl font-black">
-              Ready to procure wholesale abattoir supplies, workwear or Meena knives?
+              Ready to procure wholesale abattoir supplies, workwear or Meena knifes?
             </h3>
             <p className="text-xs sm:text-sm text-slate-300 max-w-xl">
               Connect with our Aligarh trade desk today for current catalog pricing, sample cartons, and bulk transport dispatch schedules.

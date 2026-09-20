@@ -148,7 +148,7 @@ export default function ContactSection() {
           <div className="lg:col-span-7 bg-slate-50 rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-sm">
             <h3 className="text-xl font-bold text-slate-900">Send a Commercial Wholesale Inquiry</h3>
             <p className="text-xs sm:text-sm text-slate-500 mt-1">
-              Specify your required items (PVC aprons, dangri, gumboots, cattle tags, or Meena knives) and quantities below.
+              Specify your required items (PVC aprons, dangri, gumboots, cattle tags, or Meena knifes) and quantities below.
             </p>
 
             {submitted ? (
@@ -227,7 +227,7 @@ export default function ContactSection() {
                       <option>Industrial Gumboots & PVC Work Shoes</option>
                       <option>Cold Storage & Winter Wear (Woolen Coats, Monkey Caps)</option>
                       <option>Cattle Ear Tags & Applicator Tools</option>
-                      <option>Meena Brand Butcher & Skinning Knives (Knifes)</option>
+                      <option>Meena Brand Butcher & Skinning Knifes</option>
                       <option>Multiple / Mixed Wholesale Consignment</option>
                     </select>
                   </div>
@@ -240,7 +240,7 @@ export default function ContactSection() {
                   <textarea
                     rows={4}
                     required
-                    placeholder="Specify exact quantities (e.g. 100 pcs PVC aprons, 50 pairs gumboots, 500 cattle ear tags, 24 pcs Meena knives / knifes), destination city..."
+                    placeholder="Specify exact quantities (e.g. 100 pcs PVC aprons, 50 pairs gumboots, 500 cattle ear tags, 24 pcs Meena knifes), destination city..."
                     value={formData.requirement}
                     onChange={(e) => setFormData({ ...formData, requirement: e.target.value })}
                     className="w-full px-3.5 py-2.5 text-sm rounded-xl border border-slate-200 bg-white focus:outline-none focus:ring-2 focus:ring-amber-500/50"

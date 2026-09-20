@@ -44,12 +44,12 @@ export default function Hero({ onExploreClick, onOpenQuote }) {
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-amber-300 to-yellow-500">
                 Uniforms, Gumboots
               </span> <br />
-              & Meena Brand Knives (Knifes)
+              & Meena Brand Knifes
             </h1>
 
             {/* Sub-headline */}
             <p className="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto lg:mx-0 leading-relaxed font-normal">
-              Trusted wholesale supplier for abattoirs, meat processing plants, cold storages, and livestock farms. Supplying heavy <strong className="text-white">PVC & Ragjean aprons, complete disposables (masks, caps, coats, shoe covers), industrial dangri coveralls, gumboots, cattle ear tags with applicators & cutters, and authentic Meena knives (knifes)</strong> with verified GST billing.
+              Trusted wholesale supplier for abattoirs, meat processing plants, cold storages, and livestock farms. Supplying heavy <strong className="text-white">PVC & Ragjean aprons, complete disposables (masks, caps, coats, shoe covers), industrial dangri coveralls, gumboots, cattle ear tags with applicators & cutters, and authentic Meena knifes</strong> with verified GST billing.
             </p>
 
             {/* Quick Feature Checklist */}
@@ -81,7 +81,7 @@ export default function Hero({ onExploreClick, onOpenQuote }) {
 
               <a
                 href={`https://wa.me/${BUSINESS_INFO.whatsappNumber}?text=${encodeURIComponent(
-                  `Hello Ganpati Traders, I am interested in wholesale rates for slaughterhouse uniforms, aprons, gumboots, cattle tags, and Meena knives. Please share your catalog.`
+                  `Hello Ganpati Traders, I am interested in wholesale rates for slaughterhouse uniforms, aprons, gumboots, cattle tags, and Meena knifes. Please share your catalog.`
                 )}`}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -146,7 +146,7 @@ export default function Hero({ onExploreClick, onOpenQuote }) {
                     <span className="text-[11px] bg-slate-800 text-emerald-300 font-medium px-2 py-0.5 rounded border border-emerald-500/20">Industrial Dangri & Uniforms</span>
                     <span className="text-[11px] bg-slate-800 text-slate-200 px-2 py-0.5 rounded">Gumboots & PVC Shoes</span>
                     <span className="text-[11px] bg-slate-800 text-amber-300 font-medium px-2 py-0.5 rounded border border-amber-500/20">Cattle Ear Tags & Applicators</span>
-                    <span className="text-[11px] bg-slate-800 text-amber-400 font-bold px-2 py-0.5 rounded border border-amber-400/30">Meena Brand Knives (Knifes)</span>
+                    <span className="text-[11px] bg-slate-800 text-amber-400 font-bold px-2 py-0.5 rounded border border-amber-400/30">Meena Brand Knifes</span>
                     <span className="text-[11px] bg-slate-800 text-slate-200 px-2 py-0.5 rounded">Woolen Cold Storage Wear</span>
                   </div>
                 </div>
@@ -203,7 +203,7 @@ export default function Hero({ onExploreClick, onOpenQuote }) {
             </div>
             <div>
               <h4 className="text-sm font-bold text-white">Original Meena Brand</h4>
-              <p className="text-xs text-slate-400 mt-0.5">Hallmarked butcher & skinning knives (knifes)</p>
+              <p className="text-xs text-slate-400 mt-0.5">Hallmarked butcher & skinning knifes</p>
             </div>
           </div>
         </div>
