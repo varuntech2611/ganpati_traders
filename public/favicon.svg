@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0f172a"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" stroke="#f59e0b" stroke-width="2" stroke-opacity="0.6"/>
+  <!-- Lock body / Shield -->
+  <path d="M32 14C26.477 14 22 18.477 22 24V28H20C17.791 28 16 29.791 16 32V50C16 52.209 17.791 54 20 54H44C46.209 54 48 52.209 48 50V32C48 29.791 46.209 28 44 28H42V24C42 18.477 37.523 14 32 14ZM26 24C26 20.686 28.686 18 32 18C35.314 18 38 20.686 38 24V28H26V24ZM32 37C33.657 37 35 38.343 35 40C35 41.282 34.195 42.378 33.067 42.793L33.7 47H30.3L30.933 42.793C29.805 42.378 29 41.282 29 40C29 38.343 30.343 37 32 37Z" fill="url(#goldGradient)"/>
+  <defs>
+    <linearGradient id="goldGradient" x1="16" y1="14" x2="48" y2="54" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fbbf24"/>
+      <stop offset="1" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+</svg>
+
