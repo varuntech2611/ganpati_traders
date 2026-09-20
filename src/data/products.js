@@ -10,7 +10,7 @@ export const BUSINESS_INFO = {
   stateName: "Uttar Pradesh",
   phone: "+91 98370 83772",
   whatsappNumber: "919837083772",
-  email: "ganpatitraders.aligarh@gmail.com",
+  email: "sarganpatitraders@gmail.com",
   workingHours: "Monday – Saturday: 9:30 AM – 8:00 PM",
   establishedYear: "2007",
   aboutShort: "Ganpati Traders (Aligarh) is an authorized wholesale trading house specializing in slaughterhouse & food processing hygiene gear (PVC/Ragjean aprons, disposables, gumboots), industrial uniform wear (dangri coveralls, T-shirt pajama, coats, caps), cold storage winterwear, cattle ear tags with applicators & cutters, and genuine Meena brand knifes.",

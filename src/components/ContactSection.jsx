@@ -103,31 +103,46 @@ export default function ContactSection() {
             </div>
 
             {/* Direct Contact Methods */}
-            <div className="grid sm:grid-cols-2 gap-4">
+            <div className="grid sm:grid-cols-2 gap-3.5">
               <a
                 href={`tel:${BUSINESS_INFO.phone}`}
-                className="p-5 rounded-2xl bg-slate-50 hover:bg-slate-100 border border-slate-200 transition-all block group"
+                className="p-4 rounded-2xl bg-slate-50 hover:bg-slate-100 border border-slate-200 transition-all block group"
               >
-                <div className="w-10 h-10 rounded-xl bg-slate-900 text-white flex items-center justify-center mb-3 group-hover:scale-105 transition-transform">
-                  <Phone className="w-5 h-5 text-amber-400" />
+                <div className="w-9 h-9 rounded-xl bg-slate-900 text-white flex items-center justify-center mb-2.5 group-hover:scale-105 transition-transform">
+                  <Phone className="w-4 h-4 text-amber-400" />
                 </div>
-                <div className="text-xs text-slate-500 font-medium">Call Us Directly</div>
+                <div className="text-[11px] text-slate-500 font-medium">Call Us Directly</div>
                 <div className="font-bold text-slate-900 text-sm mt-0.5">{BUSINESS_INFO.phone}</div>
-                <div className="text-[11px] text-emerald-600 font-semibold mt-1">Available 9:30 AM - 8 PM</div>
+                <div className="text-[10px] text-emerald-600 font-semibold mt-0.5">Available 9:30 AM - 8 PM</div>
               </a>
 
               <a
                 href={`https://wa.me/${BUSINESS_INFO.whatsappNumber}?text=${encodeURIComponent('Hello Ganpati Traders, I want to inquire about wholesale rates.')}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-5 rounded-2xl bg-emerald-50/70 hover:bg-emerald-100/70 border border-emerald-200 transition-all block group"
+                className="p-4 rounded-2xl bg-emerald-50/70 hover:bg-emerald-100/70 border border-emerald-200 transition-all block group"
               >
-                <div className="w-10 h-10 rounded-xl bg-emerald-600 text-white flex items-center justify-center mb-3 group-hover:scale-105 transition-transform">
-                  <MessageSquare className="w-5 h-5" />
+                <div className="w-9 h-9 rounded-xl bg-emerald-600 text-white flex items-center justify-center mb-2.5 group-hover:scale-105 transition-transform">
+                  <MessageSquare className="w-4 h-4" />
                 </div>
-                <div className="text-xs text-emerald-800 font-medium">Direct WhatsApp</div>
+                <div className="text-[11px] text-emerald-800 font-medium">Direct WhatsApp</div>
                 <div className="font-bold text-emerald-950 text-sm mt-0.5">Chat Instantly</div>
-                <div className="text-[11px] text-emerald-700 font-semibold mt-1">Live Quotations & Catalogs</div>
+                <div className="text-[10px] text-emerald-700 font-semibold mt-0.5">Live Quotations & Catalogs</div>
+              </a>
+
+              <a
+                href={`mailto:${BUSINESS_INFO.email}`}
+                className="sm:col-span-2 p-4 rounded-2xl bg-slate-50 hover:bg-slate-100 border border-slate-200 transition-all block group"
+              >
+                <div className="flex items-center gap-3">
+                  <div className="w-9 h-9 rounded-xl bg-amber-500 text-slate-950 flex items-center justify-center shrink-0 group-hover:scale-105 transition-transform">
+                    <Mail className="w-4 h-4" />
+                  </div>
+                  <div className="min-w-0">
+                    <div className="text-[11px] text-slate-500 font-medium">Official Commercial Email</div>
+                    <div className="font-bold text-slate-900 text-sm truncate mt-0.5">{BUSINESS_INFO.email}</div>
+                  </div>
+                </div>
               </a>
             </div>
 
